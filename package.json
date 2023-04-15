@@ -1,0 +1,20 @@
+{
+  "name": "my-solana-nft-members-only-area",
+  "version": "1.0.0",
+  "description": "A web app that checks for Solana NFT ownership to grant access to a members-only area",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "solana",
+    "nft",
+    "members-only"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "@solana/web3.js": "^1.7.4"
+  }
+}
